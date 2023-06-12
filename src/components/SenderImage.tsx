@@ -1,13 +1,8 @@
 import React from "react";
-import * as logo from "../assets/profile.png";
-import * as sender1 from "../assets/sender1.jpg";
-import * as sender2 from "../assets/sender2.jpg";
-import * as sender3 from "../assets/sender3.jpg";
-
-const img1 = logo.default;
-const img2 = sender1.default;
-const img3 = sender2.default;
-const img4 = sender3.default;
+import img1 from "../assets/profile.png";
+import img2 from "../assets/sender1.jpg";
+import img3 from "../assets/sender2.jpg";
+import img4 from "../assets/sender3.jpg";
 
 type SenderImageProps = {
   count: Number;
