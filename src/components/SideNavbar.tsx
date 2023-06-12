@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { RiSpam2Fill, RiInboxFill } from "react-icons/ri";
 import { FaMailBulk, FaTrash } from "react-icons/fa";
 import { MdDrafts } from "react-icons/md";
